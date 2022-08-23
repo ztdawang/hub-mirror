@@ -10,3 +10,7 @@ github上:
 - 在 `Actions` 里选择 `hub-mirror` ，如果Workflow不是Enable的话，在右边 `···` 菜单里选择 `Enable Workflow`
 
 - 最后，新建issue，记得按照上面提示的格式修改json内容即可，标题不用改。 然后就会自动执行工作流.................
+
+
+
+Fork自：https://github.com/togettoyou/hub-mirror
